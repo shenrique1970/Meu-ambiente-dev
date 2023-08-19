@@ -21,3 +21,7 @@
  | Mostra as branches existentes em um repositório |
 | git branch -M nome_da_branch  | Renomeia a branch atul |
 | git branch nome_da_branch  | Cria uma nova brancha |
+| git log |  |
+| git log --oneline |  |
+| git pull |  |
+| git push |  |
