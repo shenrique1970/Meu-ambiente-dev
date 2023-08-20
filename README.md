@@ -22,9 +22,3 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git log --oneline |  |
 | git pull |  |
 | git push |  |
-
-
-- [Documentação git](https://git-scm.com/doc)
-- [Documentação github](https://docs.github.com/pt)
-
-
