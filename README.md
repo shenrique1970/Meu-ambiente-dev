@@ -32,6 +32,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git branch |  |
 | git branch -v|  |
 | git branch -d <teste>| deleta a branch teste  |
+| git fetch origin main |  |
 
 
 rm -rf .git desfaz o git init
