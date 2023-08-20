@@ -19,13 +19,13 @@ Usar alt-tab para alternar entre aplicativos Linux e Windows
 Recortar + Colar entre aplicativos Windows e Linux
 Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para uma experiência de área de trabalho perfeita.</p>
 
-- [Instalar e começar a configurar o Terminal do Windows.](https://learn.microsoft.com/pt-br/windows/terminal/install)
+- ### [Instalar e começar a configurar o Terminal do Windows.](https://learn.microsoft.com/pt-br/windows/terminal/install)
 <p>Resumo: 
 O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, poderoso e produtivo para os usuários de ferramentas e shells de linha de comando, como prompt de comando, PowerShell e WSL. Seus principais recursos incluem várias guias, painéis, suporte a caracteres Unicode e UTF-8, um mecanismo de renderização de texto acelerado por GPU e temas, estilos e configurações personalizados.</p>
 
-- [O que é o git?](https://git-scm.com/doc)
+- ### [O que é o git?](https://git-scm.com/doc)
 
-- [O que é o github?](https://docs.github.com/pt)
+- ### [O que é o github?](https://docs.github.com/pt)
 
 ## [Aula git github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
