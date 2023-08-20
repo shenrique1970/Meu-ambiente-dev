@@ -22,3 +22,12 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git log --oneline |  |
 | git pull |  |
 | git push |  |
+| git restore |  |
+| git commit --amend -m "" | altera o ultimo commit |
+| git reset --soft <> |  |
+| git reset --mixed <> |  |
+| git reset --hard <> |  |
+| git reflog |  |
+
+
+rm -rf .git desfaz o git init
