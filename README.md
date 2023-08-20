@@ -27,5 +27,7 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 
 - [O que é o github?](https://docs.github.com/pt)
 
+## [Aula git github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
+
 
 
