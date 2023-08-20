@@ -35,5 +35,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git fetch origin main |  |
 | git diff |  |
 | git clone <https> --branch teste --single-branch |  |
+| git stach |  |
+| git stach list |  |
 
 rm -rf .git desfaz o git init
