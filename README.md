@@ -29,6 +29,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git reset --hard <> |  |
 | git reflog |  |
 | git checkout -b |  |
+| git branch |  |
+| git branch -v|  |
+| git branch -d <teste>| deleta a branch teste  |
 
 
 rm -rf .git desfaz o git init
