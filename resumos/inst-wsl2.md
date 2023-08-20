@@ -12,3 +12,14 @@ Também é importantíssimo habilitar o recurso de virtualização na Bios (Inte
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
+
+## Baixar o pacote de atualização do kernel do Linux.
+[Aqui.](https://learn.microsoft.com/pt-br/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
+
+## Definir o WSL 2 como a sua versão padrão
+```
+wsl --set-default-version 2
+```
+## Aconselho usar Ubuntu 20.04 ou distro de sua preferencia.
+
+## Definir username e senha e pronto.
