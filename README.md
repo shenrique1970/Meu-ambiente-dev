@@ -17,7 +17,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git branch 
 | Mostra as branches existentes em um repositório |
 | git branch -M nome_da_branch  | Renomeia a branch atul |
-| git branch nome_da_branch  | Cria uma nova brancha |
+| git branch nome_da_branch  | Cria uma nova branch |
 | git log |  |
 | git log --oneline |  |
 | git pull |  |
