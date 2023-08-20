@@ -28,4 +28,3 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 - [Documentação github](https://docs.github.com/pt)
 
 
-[MIT](https://choosealicense.com/licenses/mit/)
