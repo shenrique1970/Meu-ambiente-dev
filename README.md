@@ -2,11 +2,11 @@
 ## Plataforma windows 10 e o wsl2 sub sistema ubuntu 20.04
 
 
-- [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
+- ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 <p>Resumo: 
 O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
 
-- [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
+- ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
 <p>Resumo: 
 WSLg (Windows Subsystem for Linux GUI)
 Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
