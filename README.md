@@ -34,5 +34,6 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | git branch -d <teste>| deleta a branch teste  |
 | git fetch origin main |  |
 | git diff |  |
+| git clone <https> --branch teste --single-branch |  |
 
 rm -rf .git desfaz o git init
