@@ -30,7 +30,7 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 ## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
 - [O que é o git?](https://git-scm.com/doc)
-=======
+
 - ### [O que é o git?](https://git-scm.com/doc)
 
 - ### [O que é o github?](https://docs.github.com/pt)
