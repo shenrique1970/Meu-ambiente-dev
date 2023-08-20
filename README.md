@@ -2,14 +2,14 @@
 ## Plataforma windows 10 e o wsl2 sub sistema ubuntu 20.04
 
 
-- [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
-<p>Resumo: 
-O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
+- ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
-- [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
-<p>Resumo: 
-WSLg (Windows Subsystem for Linux GUI)
-Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
+<p>O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
+
+- ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
+
+WSLg (Windows Subsystem for Linux GUI).
+<p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 O WSL 2 permite que os aplicativos de GUI do Linux se sintam nativos e naturais para uso no Windows.
 
@@ -27,9 +27,17 @@ Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para 
 <p>Resumo: 
 O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, poderoso e produtivo para os usuários de ferramentas e shells de linha de comando, como prompt de comando, PowerShell e WSL. Seus principais recursos incluem várias guias, painéis, suporte a caracteres Unicode e UTF-8, um mecanismo de renderização de texto acelerado por GPU e temas, estilos e configurações personalizados.</p>
 
-- [O que é o git?](https://git-scm.com/doc)
+<<<<<<< HEAD
+## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
-- [O que é o github?](https://docs.github.com/pt)
+- [O que é o git?](https://git-scm.com/doc)
+=======
+- ### [O que é o git?](https://git-scm.com/doc)
+>>>>>>> 8442781583efef1c652affb0bacbc39ad833e3df
+
+- ### [O que é o github?](https://docs.github.com/pt)
+
+## [Aula git github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
 
 
