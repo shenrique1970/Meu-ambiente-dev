@@ -8,7 +8,7 @@ O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux q
 
 - ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
 <p>Resumo: 
-WSLg (Windows Subsystem for Linux GUI)
+WSLg (Windows Subsystem for Linux GUI).
 Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 O WSL 2 permite que os aplicativos de GUI do Linux se sintam nativos e naturais para uso no Windows.
