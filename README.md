@@ -19,7 +19,7 @@ Usar alt-tab para alternar entre aplicativos Linux e Windows
 Recortar + Colar entre aplicativos Windows e Linux
 Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para uma experiência de área de trabalho perfeita.</p>
 
-[Instalação wsl](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-wsl.md)
+[Instalação wsl](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/inst-wsl2.md)
 
 
 - [Instalar e começar a configurar o Terminal do Windows.](https://learn.microsoft.com/pt-br/windows/terminal/install)
