@@ -27,6 +27,8 @@ Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para 
 <p>Resumo: 
 O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, poderoso e produtivo para os usuários de ferramentas e shells de linha de comando, como prompt de comando, PowerShell e WSL. Seus principais recursos incluem várias guias, painéis, suporte a caracteres Unicode e UTF-8, um mecanismo de renderização de texto acelerado por GPU e temas, estilos e configurações personalizados.</p>
 
+- [Usando wslg]()
+
 ## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
 - ### [O que é o git?](https://git-scm.com/doc)
