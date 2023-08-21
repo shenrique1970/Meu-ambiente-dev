@@ -1,7 +1,6 @@
 ## | Git github resumo |
 
 ##  Comandos iniciais.
-```
 | git init | inicia um repositório. |
 | --- | --- |
 | git status | Exibe estado do diretório e área de preparação |
@@ -35,6 +34,6 @@
 | git clone <https> --branch teste --single-branch |  |
 | git stach |  |
 | git stach list |  |
-
+```
 rm -rf .git desfaz o git init
 ```
