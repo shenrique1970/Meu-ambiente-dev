@@ -22,3 +22,6 @@ sudo apt-get install wget ca-certificates
 [Clique aqui](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 
 [Google-chrome](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps) e outro programas úteis para trabalhar no wslg.
+
+![Alt text](image-1.png)
+![Alt text](image-2.png)
