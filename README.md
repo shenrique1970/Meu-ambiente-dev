@@ -1,4 +1,4 @@
-# Meu ambiente de desenvolvimento.
+se# Meu ambiente de desenvolvimento.
 ## Plataforma windows 10 e o wsl2 sub sistema ubuntu 20.04
 
 
@@ -37,7 +37,6 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 
 
 
-## Tutorial  sobre wsl https://www.youtube.com/live/OXCn6s0VTQc?si=d0NtCUkixkP7Bf4E
 
 
 
