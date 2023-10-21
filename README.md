@@ -37,4 +37,7 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 
 
 
+https://www.youtube.com/live/OXCn6s0VTQc?si=d0NtCUkixkP7Bf4E
+
+
 
