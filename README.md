@@ -39,6 +39,7 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 - ### [Linux Fedora 40, 41](https://fedoraproject.org/)
 - ### [Chrome Os](https://chromeos.google/intl/pt_br/)
 - ### [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
+- ### [Mais dicas de como instalar Linux no Chrome Os](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
 
 
 
