@@ -36,8 +36,9 @@ O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, pod
 - ### [O que é o github?](https://docs.github.com/pt)
 
 - ### [Sobre Arch linux](https://github.com/yuk7/ArchWSL)
-- ### Linux Fedora 40, 41
-- ### Chrome Os, terminal linux Debian
+- ### [Linux Fedora 40, 41](https://fedoraproject.org/)
+- ### [Chrome Os](https://chromeos.google/intl/pt_br/)
+- ### [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
 
 
 
