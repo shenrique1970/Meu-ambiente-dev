@@ -1,8 +1,7 @@
 # Meu ambiente de desenvolvimento.
 ## usando plataforma windows 10 11, e o recurso do wsl2:
-- sub sistema Arch linux(melhor opção) - só procurar no [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
+- Arch linux - só procurar no [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
 - Fedora.
-
 
 - ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
