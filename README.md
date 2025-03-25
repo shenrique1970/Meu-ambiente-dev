@@ -1,5 +1,5 @@
 # Meu ambiente de desenvolvimento.
-## Plataforma windows 10 11 e o wsl2 sub sistema Arch linux(melhor opção) - só procurar no [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s) sobre melhor ambiente dev.
+## usando plataforma windows 10 11, e o wsl2 sub sistema Arch linux(melhor opção) - só procurar no [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s) sobre melhor ambiente dev.
 
 
 - ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
