@@ -7,10 +7,7 @@
 
 <p>O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
 
-- ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
 
-WSLg (Windows Subsystem for Linux GUI).
-<p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 O WSL 2 permite que os aplicativos de GUI do Linux se sintam nativos e naturais para uso no Windows.
 
@@ -29,6 +26,11 @@ Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para 
 O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, poderoso e produtivo para os usuários de ferramentas e shells de linha de comando, como prompt de comando, PowerShell e WSL. Seus principais recursos incluem várias guias, painéis, suporte a caracteres Unicode e UTF-8, um mecanismo de renderização de texto acelerado por GPU e temas, estilos e configurações personalizados.</p>
 
 - [Usando wslg](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/usu-ubuntu.md)
+
+- ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
+
+WSLg (Windows Subsystem for Linux GUI).
+<p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 ## Outras plataformas:
 - Fedora 41.
