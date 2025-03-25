@@ -1,7 +1,11 @@
 # Meu ambiente de desenvolvimento.
 ## usando plataforma windows 10 11, e o recurso do wsl2:
 - Arch linux - só procurar no [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
-- Fedora.
+- Fedora 40.
+## Outras plataformas:
+- Fedora 41.
+- Zorin Os.
+- Chrome os.
 
 - ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
