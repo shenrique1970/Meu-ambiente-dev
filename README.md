@@ -31,12 +31,10 @@ WSLg (Windows Subsystem for Linux GUI).
 
 ## Outras plataformas:
 - Arch linux - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
-- Fedora 40.
-
-
-- Fedora 41.
-- Zorin Os.
-- Chrome os.
+- Fedora 40. wsl2.
+- Fedora 41. dual boot.
+- Zorin Os. dual boot.
+- Chrome os. segundo SSD ou chromebook.
 
 ## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
