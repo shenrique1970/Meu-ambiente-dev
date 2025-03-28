@@ -30,7 +30,7 @@ WSLg (Windows Subsystem for Linux GUI).
 <p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 ## Outras plataformas:
-- Arch linux - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
+- Arch linux - wsl2 - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
 - Fedora 40. wsl2.
 - Fedora 41. dual boot.
 - Zorin Os. dual boot.
