@@ -1,13 +1,10 @@
 # Meu ambiente de desenvolvimento.
 ## Usando plataforma windows 10 11, e o recurso do wsl2:
-- Arch linux - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
-- Fedora 40.
 
-- ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
 <p>O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
 
-
+- ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
 O WSL 2 permite que os aplicativos de GUI do Linux se sintam nativos e naturais para uso no Windows.
 
@@ -33,6 +30,10 @@ WSLg (Windows Subsystem for Linux GUI).
 <p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
 
 ## Outras plataformas:
+- Arch linux - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
+- Fedora 40.
+
+
 - Fedora 41.
 - Zorin Os.
 - Chrome os.
