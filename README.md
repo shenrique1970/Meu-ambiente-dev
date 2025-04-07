@@ -33,7 +33,7 @@ WSLg (Windows Subsystem for Linux GUI).
 - Arch linux - wsl2 - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
 - Fedora 40. wsl2 - referencia [web](https://github.com/fedora-cloud/docker-brew-fedora/tree/40/x86_64), (https://github.com/fedora-cloud/docker-brew-fedora/tree/40/x86_64)
 - Debian. wsl2.
-- Ubuntu-22.04. wsl2.
+- Ubuntu-22.04. wsl2 - referencia [web](https://cloud-images.ubuntu.com/wsl/)
 - Fedora 41. dual boot.
 - Zorin Os. dual boot.
 - Chrome os. segundo SSD ou chromebook.
