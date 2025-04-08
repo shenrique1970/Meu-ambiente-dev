@@ -37,6 +37,7 @@ WSLg (Windows Subsystem for Linux GUI).
 - Fedora 41. dual boot.
 - Zorin Os. dual boot.
 - Chrome os. segundo SSD ou chromebook.
+- obs: Ruby no chrome Os, [Tutorial](https://shape.host/resources/how-to-install-ruby-on-rails-on-debian-12)
 
 ## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
