@@ -1,18 +1,18 @@
-Para instalar o Windows Subsystem for Linux (WSL) no Windows 10 e 11, siga estes passos:
+# Para instalar o Windows Subsystem for Linux (WSL) no Windows 10 e 11, siga estes passos:
 1. Verifique a sua versão do Windows:
 Se estiver a usar o Windows 10, precisa de uma versão 2004 ou superior (Build 19041 ou superior). 
 Se estiver a usar o Windows 11, precisa de uma versão 21H2 ou superior. 
 2. Habilite os recursos necessários (se necessário):
-Abra o PowerShell ou Prompt de Comando do Windows como administrador. 
+## Abra o PowerShell ou Prompt de Comando do Windows como administrador. 
 Execute os seguintes comandos:
-'''dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart'''
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart 
 Reinicie o computador. 
 3. Baixe e instale o kernel do Linux (se necessário):
 Se estiver a usar o WSL 2, baixe e instale o pacote de atualização do kernel do Linux. 
 Siga as instruções fornecidas na página de download da Microsoft ou use o instalador direto. 
 4. Instale o WSL:
-Abra o PowerShell ou Prompt de Comando do Windows como administrador.
+## Abra o PowerShell ou Prompt de Comando do Windows como administrador.
 Execute o comando: wsl --install.
 Reinicie o computador. 
 5. Defina o WSL 2 como versão padrão (se necessário):
