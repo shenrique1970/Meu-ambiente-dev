@@ -6,13 +6,14 @@ Se estiver a usar o Windows 11, precisa de uma versão 21H2 ou superior.
 ## Abra o PowerShell ou Prompt de Comando do Windows como administrador. 
 Execute os seguintes comandos:
 
-.. .
+'' '
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-.. .
+'' '
 
-´´ ´
+'' '
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart 
-´´ ´
+'' '
+
 Reinicie o computador. 
 3. Baixe e instale o kernel do Linux (se necessário):
 Se estiver a usar o WSL 2, baixe e instale o pacote de atualização do kernel do Linux. 
