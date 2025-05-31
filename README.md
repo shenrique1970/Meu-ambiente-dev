@@ -1,57 +1,60 @@
-# Meu ambiente de desenvolvimento.
-## Usando plataforma windows 10 11, e o recurso do wsl2:
+# Meu Ambiente de Desenvolvimento
 
+## Usando Windows 10/11 e o Recurso do WSL2
 
-<p>O WSL 2 é uma nova versão da arquitetura do Subsistema do Windows para Linux que capacita o Subsistema do Windows para Linux a executar binários ELF64 Linux no Windows. As metas principais dele são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com a chamada do sistema.</p>
+O WSL 2 (Windows Subsystem for Linux) é uma nova versão da arquitetura do Subsistema do Windows para Linux que permite a execução de binários ELF64 Linux no Windows. As principais metas do WSL 2 são aumentar o desempenho do sistema de arquivos e adicionar compatibilidade completa com chamadas de sistema.
 
-- ### [O que é o wsl2?](https://learn.microsoft.com/pt-br/windows/wsl/about)
+### O que é o WSL2?
+- [Documentação Oficial do WSL2](https://learn.microsoft.com/pt-br/windows/wsl/about)
 
-O WSL 2 permite que os aplicativos de GUI do Linux se sintam nativos e naturais para uso no Windows.
+O WSL 2 permite que os aplicativos de GUI do Linux se integrem de forma nativa ao Windows, proporcionando uma experiência de usuário fluida. Com o WSL 2, você pode:
+- Iniciar aplicativos Linux diretamente do menu Iniciar do Windows
+- Fixar aplicativos Linux na barra de tarefas do Windows
+- Usar Alt+Tab para alternar entre aplicativos Linux e Windows
+- Recortar e colar entre aplicativos Windows e Linux
 
-Iniciar aplicativos Linux no menu Iniciar do Windows
-Fixar aplicativos Linux na barra de tarefas do Windows
-Usar alt-tab para alternar entre aplicativos Linux e Windows
-Recortar + Colar entre aplicativos Windows e Linux
-Agora você pode integrar aplicativos Windows e Linux ao fluxo de trabalho para uma experiência de área de trabalho perfeita.</p>
+Agora você pode integrar aplicativos Windows e Linux ao seu fluxo de trabalho para uma experiência de área de trabalho perfeita.
 
-[Instalação wsl](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/inst-wsl2.md)
+### Instalação do WSL
+- [Guia de Instalação do WSL](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/inst-wsl2.md)
 
+### Configuração do Windows Terminal
+- [Instalar e Configurar o Terminal do Windows](https://learn.microsoft.com/pt-br/windows/terminal/install)
 
-- [Instalar e começar a configurar o Terminal do Windows.](https://learn.microsoft.com/pt-br/windows/terminal/install)
+O Windows Terminal é um aplicativo moderno, rápido e eficiente para usuários de ferramentas e shells de linha de comando, como Prompt de Comando, PowerShell e WSL. Seus principais recursos incluem:
+- Múltiplas guias
+- Painéis
+- Suporte a caracteres Unicode e UTF-8
+- Renderização de texto acelerada por GPU
+- Temas, estilos e configurações personalizáveis
 
-<p>Resumo: 
-O Windows Terminal é um aplicativo de terminal moderno, rápido, eficiente, poderoso e produtivo para os usuários de ferramentas e shells de linha de comando, como prompt de comando, PowerShell e WSL. Seus principais recursos incluem várias guias, painéis, suporte a caracteres Unicode e UTF-8, um mecanismo de renderização de texto acelerado por GPU e temas, estilos e configurações personalizados.</p>
+### Usando WSLg
+- [Documentação do WSLg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
 
-- [Usando wslg](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/usu-ubuntu.md)
+WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows, proporcionando uma experiência de área de trabalho totalmente integrada.
 
-- ### [wslg](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/gui-apps)
+## Outras Plataformas
+- **Arch Linux** - WSL2 - [Referência no YouTube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s)
+- **Fedora 40** - WSL2 - [Referência](https://github.com/fedora-cloud/docker-brew-fedora/tree/40/x86_64)
+- **Debian** - WSL2
+- **Ubuntu 22.04** - WSL2 - [Referência](https://cloud-images.ubuntu.com/wsl/)
+- **Fedora 41** - Dual Boot
+- **Zorin OS** - Dual Boot
+- **Chrome OS** - Segundo SSD ou Chromebook
+- **Observação**: Ruby no Chrome OS - [Tutorial](https://shape.host/resources/how-to-install-ruby-on-rails-on-debian-12)
 
-WSLg (Windows Subsystem for Linux GUI).
-<p>Subsistema do Windows para Linux (WSL) agora dá suporte à execução de aplicativos de GUI do Linux (X11 e Wayland) no Windows em uma experiência de área de trabalho totalmente integrada.
+## Aula sobre Git e GitHub
+- [Resumo da Aula sobre Git e GitHub](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
 
-## Outras plataformas:
-- Arch linux - wsl2 - referencia [youtube](https://www.youtube.com/watch?v=sjrW74Hx5Po&t=950s).
-- Fedora 40. wsl2 - referencia [web](https://github.com/fedora-cloud/docker-brew-fedora/tree/40/x86_64), (https://github.com/fedora-cloud/docker-brew-fedora/tree/40/x86_64)
-- Debian. wsl2.
-- Ubuntu-22.04. wsl2 - referencia [web](https://cloud-images.ubuntu.com/wsl/)
-- Fedora 41. dual boot.
-- Zorin Os. dual boot.
-- Chrome os. segundo SSD ou chromebook.
-- obs: Ruby no chrome Os, [Tutorial](https://shape.host/resources/how-to-install-ruby-on-rails-on-debian-12)
+### O que é o Git?
+- [Documentação do Git](https://git-scm.com/doc)
 
-## [Aula sobre git e github](https://github.com/shenrique1970/Meu-ambiente-dev/blob/main/resumos/resumo-aula.md)
+### O que é o GitHub?
+- [Documentação do GitHub](https://docs.github.com/pt)
 
-- ### [O que é o git?](https://git-scm.com/doc)
-
-- ### [O que é o github?](https://docs.github.com/pt)
-
-- ### [Sobre Arch linux](https://github.com/yuk7/ArchWSL)
-- ### [Linux Fedora 40, 41](https://fedoraproject.org/)
-- ### [Chrome Os](https://chromeos.google/intl/pt_br/)
-- ### [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
-- ### [Mais dicas de como instalar Linux no Chrome Os](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
-
-
-
-
-
+### Recursos Adicionais
+- [Sobre Arch Linux](https://github.com/yuk7/ArchWSL)
+- [Linux Fedora 40, 41](https://fedoraproject.org/)
+- [Chrome OS](https://chromeos.google/intl/pt_br/)
+- [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
+- [Mais Dicas de Como Instalar Linux no Chrome OS](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
