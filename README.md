@@ -50,6 +50,8 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 ### O que é o Git?
 - [Documentação do Git](https://git-scm.com/doc)
 
+### Configurando github [](https://aline-antunes.gitbook.io/formacao-fundamentos-github/introducao-ao-git-e-github)
+
 ### O que é o GitHub?
 - [Documentação do GitHub](https://docs.github.com/pt)
 
