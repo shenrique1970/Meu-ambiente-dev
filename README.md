@@ -39,7 +39,7 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 - **Debian** - WSL2
 - **Ubuntu 22.04** - WSL2 - [Referência](https://cloud-images.ubuntu.com/wsl/)
 - **Fedora 41** - Dual Boot
-- **Fedora 42 - wsl2 - [Referência](https://docs.fedoraproject.org/en-US/cloud/wsl/)
+- **Fedora 42** - wsl2 - [Referência](https://docs.fedoraproject.org/en-US/cloud/wsl/)
 - **Zorin OS** - Dual Boot
 - **Chrome OS** - Segundo SSD ou Chromebook
 - **Observação**: Ruby no Chrome OS - [Tutorial](https://shape.host/resources/how-to-install-ruby-on-rails-on-debian-12)
