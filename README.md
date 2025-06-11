@@ -62,33 +62,5 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 - [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
 - [Mais Dicas de Como Instalar Linux no Chrome OS](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
 
-### Python e UV.
-[UV](https://docs.astral.sh/uv/getting-started/installation/)
 
-- Resumo:
-### Cria o projeto completo
-```sh uv init nome-do-projeto ```
-
-### Ou inicializa dentro de um projeto existente:
-```sh uv init ```
-
-### Instala Python, cria venv e instala dependências em 1 comando
-```sh uv sync ```
-
-### Instala pacotes
-```sh uv add requests ruff pyright ```
-
-### Remove pacotes
-```sh uv remove requests ```
-
-### Requerimentos via requirements.txt
-```sh uv add -r requirements.txt ```
-
-### Executa scripts Python sem ativar venv
-```sh uv run src/main.py ```
-
-### Instala ferramentas como ruff ou pyright globalmente
-```sh uv tool install ruff ```
-```sh uvx ruff ```
-```sh uv tool uninstall ruff ```
 
