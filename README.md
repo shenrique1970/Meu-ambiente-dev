@@ -66,9 +66,9 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 [UV](https://docs.astral.sh/uv/getting-started/installation/)
 
 - Resumo:
-- ### Cria o projeto completo
-diretório:
-  ```sh uv init nome-do-projeto ```
+### Cria o projeto completo
+```sh uv init nome-do-projeto ```
+
 ### Ou inicializa dentro de um projeto existente:
 ```sh uv init ```
 
