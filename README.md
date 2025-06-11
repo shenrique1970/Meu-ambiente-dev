@@ -64,3 +64,38 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 
 ### Python e UV.
 [UV](https://docs.astral.sh/uv/getting-started/installation/)
+
+- Resumo:
+  ```sh
+# Cria o projeto completo
+diretório: uv init nome-do-projeto
+
+# Ou inicializa dentro de um projeto existente:
+uv init
+```
+
+```sh
+# Instala Python, cria venv e instala dependências em 1 comando
+uv sync
+```
+
+```sh
+# Instala pacotes
+uv add requests ruff pyright
+
+# Remove pacotes
+uv remove requests
+
+# Requerimentos via requirements.txt
+uv add -r requirements.txt
+```
+
+```sh
+# Executa scripts Python sem ativar venv
+uv run src/main.py
+
+# Instala ferramentas como ruff ou pyright globalmente
+uv tool install ruff
+uvx ruff
+uv tool uninstall ruff
+```
