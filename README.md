@@ -61,3 +61,6 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 - [Chrome OS](https://chromeos.google/intl/pt_br/)
 - [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
 - [Mais Dicas de Como Instalar Linux no Chrome OS](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
+
+### Python e UV.
+[UV](https://docs.astral.sh/uv/getting-started/installation/)
