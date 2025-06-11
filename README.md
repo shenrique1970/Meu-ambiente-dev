@@ -87,7 +87,7 @@ diretório:
 ### Executa scripts Python sem ativar venv
 ```sh uv run src/main.py ```
 
-# Instala ferramentas como ruff ou pyright globalmente
+### Instala ferramentas como ruff ou pyright globalmente
 ```sh uv tool install ruff ```
 ```sh uvx ruff ```
 ```sh uv tool uninstall ruff ```
