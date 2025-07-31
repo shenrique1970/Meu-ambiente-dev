@@ -21,7 +21,7 @@ Agora você pode integrar aplicativos Windows e Linux ao seu fluxo de trabalho p
 ### Configuração do Windows Terminal
 - [Instalar e Configurar o Terminal do Windows](https://learn.microsoft.com/pt-br/windows/terminal/install)
 
-<img width="1115" height="628" alt="Captura de tela 2025-07-31 170249" src="https://github.com/user-attachments/assets/3a47ad55-eade-4e1e-973b-63f87731403d" />
+
 
 O Windows Terminal é um aplicativo moderno, rápido e eficiente para usuários de ferramentas e shells de linha de comando, como Prompt de Comando, PowerShell e WSL. Seus principais recursos incluem:
 - Múltiplas guias
@@ -64,5 +64,6 @@ WSLg (Windows Subsystem for Linux GUI) agora permite a execução de aplicativos
 - [Configurar o Linux no Chromebook](https://support.google.com/chromebook/answer/9145439?hl=pt-br)
 - [Mais Dicas de Como Instalar Linux no Chrome OS](https://youtu.be/uM1y4qeTLbw?si=YYNLWSsI2NVuoGNo)
 
+<img width="1115" height="628" alt="Captura de tela 2025-07-31 170249" src="https://github.com/user-attachments/assets/3a47ad55-eade-4e1e-973b-63f87731403d" />
 
 
